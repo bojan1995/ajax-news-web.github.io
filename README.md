@@ -1,5 +1,5 @@
 # https://bojan1995.github.io/news/
-Fetching Data Using Ajax 
+Fetching Data Using JQuery 
 News Website
 This is a simple news website that fetches posts from jsonplaceholder.typicode.com API and displays them. The website is designed using HTML, CSS, and JavaScript/jQuery. It is fully responsive and works well on all screen sizes.
 
